@@ -7,8 +7,8 @@
 # <https://github.com/OSGeo/gdal/blob/trunk/.travis.yml>
 #
 
-# Ubuntu 14.04 Trusty Tahyr
-FROM ubuntu:trusty
+# Ubuntu latest
+FROM ubuntu:latest
 
 MAINTAINER Homme Zwaagstra <hrz@geodata.soton.ac.uk>
 
